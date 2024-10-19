@@ -4,3 +4,4 @@ if s==s1:
     print('true')
 else:
     print('false')
+#палиндром
